@@ -1,3 +1,9 @@
+Deploy project with FireBase https://hulu-clone-pmx.web.app
+
+
+Project Console: https://console.firebase.google.com/project/hulu-clone-pmx/overview
+Hosting URL: https://hulu-clone-pmx.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
